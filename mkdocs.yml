@@ -2,6 +2,8 @@ site_name: AetherSX2
 theme:
   name: material
   logo: assets/aether-logo.png
+  icon:
+    repo: fontawesome/brands/patreon
   favicon: assets/aether-logo.png
   features:
     - navigation.instant
@@ -24,3 +26,5 @@ extra:
       link: mailto:tahlreth@gmail.com
       name: Send an email to the developer
 copyright: Copyright &copy; 2021 - 2022 Tahlreth, AetherSX2
+repo_url: https://www.patreon.com/aethersx2
+repo_name: 'Support us on Patreon'
