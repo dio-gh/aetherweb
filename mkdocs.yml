@@ -1,6 +1,19 @@
 site_name: AetherSX2
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
+  palette:
+  - media: "(prefers-color-scheme: light)" 
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)" 
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
   logo: assets/aether-logo.png
   icon:
     repo: fontawesome/brands/patreon
