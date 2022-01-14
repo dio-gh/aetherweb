@@ -1,3 +1,4 @@
 site_name: AetherSX2
 theme:
   name: material
+  logo: assets/aether-logo.png
