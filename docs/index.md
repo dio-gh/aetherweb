@@ -1,6 +1,6 @@
 # Introduction
 
-## App overview
+## Project overview
 
 AetherSX2 is the reimplementation of a [well-known desktop PS2 emulator](https://pcsx2.net/) for the ARMv8/AArch64 platform, as well as a frontend/app for Android. The app allows you to play games that you have dumped from disc on your phone with external or touchscreen controls. It is free to use and does not contain ads.
 
