@@ -10,3 +10,18 @@ theme:
     - navigation.tabs.sticky
     - navigation.expand
     - navigation.top
+    - header.autohide
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/JZ7BkeEdrJ
+      name: Join our community server on Discord
+    - icon: fontawesome/brands/patreon
+      link: https://www.patreon.com/aethersx2
+      name: Support the project on Patreon
+    - icon: fontawesome/solid/envelope
+      link: mailto:tahlreth@gmail.com
+      name: Send an email to the developer
+copyright: Copyright &copy; 2021 - 2022 Tahlreth, AetherSX2
