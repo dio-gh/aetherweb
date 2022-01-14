@@ -1,6 +1,4 @@
 site_name: AetherSX2
-extra_css:
-  - stylesheets/extra.css
 theme:
   name: material
   palette:
@@ -21,7 +19,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-#    - navigation.tabs
+    - navigation.tabs
     - navigation.expand
     - navigation.top
     - header.autohide
