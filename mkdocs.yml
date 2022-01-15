@@ -27,6 +27,9 @@ plugins:
   - search
 extra:
   social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/AetherSX2/
+      name: Visit our subreddit
     - icon: fontawesome/brands/discord
       link: https://discord.gg/JZ7BkeEdrJ
       name: Join our community server on Discord
